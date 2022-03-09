@@ -12,3 +12,7 @@ for (i = 0; i <= element.length; i++){
 }
 ```
 
+# Clip
+
+
+![howtodo](https://user-images.githubusercontent.com/26802307/157499574-5bc544c1-f187-422f-b746-332ea487aae2.gif)

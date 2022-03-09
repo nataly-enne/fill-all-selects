@@ -1,5 +1,5 @@
 # Fill All Selects
-> É um *script* que preenche todos os `selects` do **Questionário de Avaliação da Docência** de uma vez com um valor pré-definido.
+> É um *script* que preenche todos os `selects` do **Questionário de Avaliação da Docência** da UFRN de uma vez com um valor pré-definido.
 
 # How to do
 
